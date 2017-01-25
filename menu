@@ -1,4 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
+<item>
 <title>UK TV</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -6,6 +8,7 @@
 <externallink></externallink>
 </item>
 
+<item>
 <title>UK Movies</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -13,6 +16,7 @@
 <externallink></externallink>
 </item>
 
+<item>
 <title>UK SkySports</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -20,6 +24,7 @@
 <externallink>https://raw.githubusercontent.com/bigsmokeiptv/bigsmokeiptv/master/1</externallink>
 </item>
 
+<item>
 <title>UK BT Sport</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -27,6 +32,7 @@
 <externallink></externallink>
 </item>
 
+<item>
 <title>UK Documentary</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -34,6 +40,7 @@
 <externallink></externallink>
 </item>
 
+<item>
 <title>Kids</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -41,6 +48,7 @@
 <externallink></externallink>
 </item>
 
+<item>
 <title>Other Sports</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
