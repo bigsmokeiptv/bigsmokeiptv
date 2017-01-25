@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
-<item>
-<title>UK TV</title>
-<thumbnail>http://ignoreme</thumbnail>
-<fanart>http://ignoreme</fanart>
-<link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
-</item>
-
-<item>
-<title>UK Movies</title>
-<thumbnail>http://ignoreme</thumbnail>
-<fanart>http://ignoreme</fanart>
-<link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
-</item>
 
 <item>
 <title>UK SkySports</title>
@@ -22,36 +7,4 @@
 <fanart>http://ignoreme</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/bigsmokeiptv/bigsmokeiptv/master/1</externallink>
-</item>
-
-<item>
-<title>UK BT Sport</title>
-<thumbnail>http://ignoreme</thumbnail>
-<fanart>http://ignoreme</fanart>
-<link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
-</item>
-
-<item>
-<title>UK Documentary</title>
-<thumbnail>http://ignoreme</thumbnail>
-<fanart>http://ignoreme</fanart>
-<link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
-</item>
-
-<item>
-<title>Kids</title>
-<thumbnail>http://ignoreme</thumbnail>
-<fanart>http://ignoreme</fanart>
-<link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
-</item>
-
-<item>
-<title>Other Sports</title>
-<thumbnail>http://ignoreme</thumbnail>
-<fanart>http://ignoreme</fanart>
-<link>http://ignoreme</link>
-<externallink>http://ignoreme</externallink>
 </item>
